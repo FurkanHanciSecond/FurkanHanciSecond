@@ -1,12 +1,14 @@
-Hi there 👋
+### Hi there 👋
+
 
 Here are some ideas to get you started:
 
-🔭 I’m currently working on SwiftUI/ARKit/CoreML
-🌱 I’m currently learning Flutter/Dart Language and TensorFlow
-💬 Ask me about What do you want :D
-📫 How to reach me: Twitter or Mail
-😄 Pronouns: He/Him -->
+- 🔭 I’m currently working on SwiftUI/ARKit/CoreML
+- 🌱 I’m currently learning Flutter/Dart Language and TensorFlow
+- 💬 Ask me about What do you want :D
+- 📫 How to reach me: [Twitter](https://twitter.com/furkanhnci) or [Mail](furkanhanci265@gmail.com)
+- 😄 Pronouns: He/Him
+-->
 
 - THIS ACCOUNT OWNER IS @FURKANUS I LOST MY 2FA RECOVERY CODE I WILL CONTINUE FROM HERE!!!
 
