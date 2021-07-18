@@ -7,6 +7,7 @@ Here are some ideas to get you started:
 💬 Ask me about What do you want :D
 📫 How to reach me: Twitter or Mail
 😄 Pronouns: He/Him -->
+
 - THIS ACCOUNT OWNER IS @FURKANUS I LOST MY 2FA RECOVERY CODE I WILL CONTINUE FROM HERE!!!
 
 <!---
