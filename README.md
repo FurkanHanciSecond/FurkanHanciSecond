@@ -1,4 +1,4 @@
-### hey there <img src="https://giphy.com/gifs/Originals-hi-wave-oh-hello-3oz8xSjBmD1ZyELqW4" width="35px" >
+### heyyo there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" >
 
 - 💬  Ask me about anything [here](https://www.linkedin.com/in/furkan-hancı-613850188/)
 
