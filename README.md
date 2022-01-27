@@ -27,8 +27,6 @@
 **Design** <br/><br/>
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-<br/><br/>
-
 **Social** <br/><br/> 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/furkanus?style=social"> <img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%furkanhnci">
 
