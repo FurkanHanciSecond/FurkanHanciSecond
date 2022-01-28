@@ -31,8 +31,15 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/furkanus?style=social"> <img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%furkanhnci">
 
 
-
 <img src="https://github-readme-stats.vercel.app/api?username=furkanus&show_icons=true&theme=dark" />
+
+### 📊 GitHub Analytics
+<p align="center">
+<a href="https://github.com/furkanus">
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=batuhankrbb&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="furkanus"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=furkanus&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="furkanus"/>
+</a>
+</p>
 
 - THIS ACCOUNT OWNER IS @FURKANUS I LOST MY 2FA RECOVERY CODE I WILL CONTINUE FROM HERE!!!
 
