@@ -1,5 +1,8 @@
 ### heyyo there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" >
 
+![I am GitHub Readme Generator's creator](https://blog.codemagic.io/uploads/covers/Codemagic-io_Blog_Flutter-Versus-Other-Mobile-Development-Frameworks_1.png)
+
+
 - 💬  Ask me about anything [here](https://www.linkedin.com/in/furkan-hancı-613850188/)
 
 
