@@ -44,6 +44,8 @@
 </a>
 </p>
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=furkanhancisecond)
+
 - THIS ACCOUNT OWNER IS @FURKANUS I LOST MY 2FA RECOVERY CODE I WILL CONTINUE FROM HERE!!!
 
 <!---
