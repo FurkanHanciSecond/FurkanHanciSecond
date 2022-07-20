@@ -48,7 +48,7 @@ Now Working On 🚀 [Gamella](https://github.com/FurkanHanciSecond/GamellaSecond
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=furkanhancisecond)
 
-- THIS ACCOUNT OWNER IS @FURKANUS I LOST MY 2FA RECOVERY CODE I WILL CONTINUE FROM HERE!!!
+- THIS ACCOUNT OWNER IS @FURKANUS[https://github.com/Furkanus] I LOST MY 2FA RECOVERY CODE I WILL CONTINUE FROM HERE!!!
 
 <!---
 FurkanHanciSecond/FurkanHanciSecond is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
