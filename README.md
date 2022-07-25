@@ -46,7 +46,7 @@ Now Working On 🚀 [Gamella](https://github.com/FurkanHanciSecond/GamellaSecond
 </a>
 </p>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=furkanhancisecond)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=FurkanHanciSecond)
 
 - THIS ACCOUNT OWNER IS [@FURKANUS](https://github.com/Furkanus) I LOST MY 2FA RECOVERY CODE I WILL CONTINUE FROM HERE!!!
 
