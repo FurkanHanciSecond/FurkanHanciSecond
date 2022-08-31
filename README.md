@@ -1,7 +1,7 @@
 ### heyyo there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" >
 
 
-- 💬  Ask me about anything [here](https://www.linkedin.com/in/furkan-hancı-613850188/)
+- 💬  Ask me about anything [here](furkan.hanci@exoplanet.digital)
 
 
 **Working On** <br/><br/>
