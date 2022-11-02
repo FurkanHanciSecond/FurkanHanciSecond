@@ -37,15 +37,6 @@ Now Working On 🚀 [Exoplanet](https://github.com/Exoplanet-Digital)
 **Social** <br/><br/> 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/furkanus?style=social"> <img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%furkanhnci">
 
-
-### 📊 GitHub Analytics
-<p align="center">
-<a href="https://github.com/furkanhancisecond">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=furkanhancisecond&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="furkanhancisecond"/>
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=furkanhancisecond&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="furkanus"/>
-</a>
-</p>
-
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=FurkanHanciSecond)
 
 - THIS ACCOUNT OWNER IS [@FURKANUS](https://github.com/Furkanus) I LOST MY 2FA RECOVERY CODE I WILL CONTINUE FROM HERE!!!
