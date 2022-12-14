@@ -3,7 +3,7 @@
 
 - 💬  Ask me about anything [here](https://twitter.com/furkanhnci)
 - 🌍 [My Website](http://furkanhanci.social)
-- Working On Indie Development
+- <br>Working On Indie Development<br>
 
 <!---
 FurkanHanciSecond/FurkanHanciSecond is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
