@@ -4,7 +4,7 @@
 - 💬  Ask me about anything [here](https://twitter.com/furkanhnci)
 - 🌍 [My Website](http://furkanhanci.social)
 - **Working On Indie Development**
-- **Trying To Reach 1k MRR 🤑**
+- **Trying To Reach 1k Monthly Recurring Revenue 🤑**
 
 <!---
 FurkanHanciSecond/FurkanHanciSecond is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
