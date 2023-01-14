@@ -2,7 +2,7 @@
 
 
 - 📫 Reach Me furkanhanci265@gmial.com
-- **Working On Indie Development**
+- **Building Indie Business To The Moon 🚀**
 - **Trying To Reach 1k MRR 🤑**
 
 <!---
