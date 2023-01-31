@@ -3,7 +3,7 @@
 
 - 📫 Reach Me furkanhanci265@gmial.com
 - **Building Indie Business To The Moon 🚀 💣**
-- **Trying To Reach 1k MRR 🤑**
+- **Trying To Reach 1k MRR**
 
 <!---
 FurkanHanciSecond/FurkanHanciSecond is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
